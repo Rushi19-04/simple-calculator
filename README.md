@@ -31,9 +31,6 @@ This project is a basic calculator application developed in Java using the Swing
    java calci
    ```
 
-## Screenshots
-![Calculator GUI](path-to-screenshot.png)
-
 ## Technologies Used
 - **Java:** Core programming language.
 - **Swing:** GUI toolkit for Java.
